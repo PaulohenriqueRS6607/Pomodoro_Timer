@@ -12,7 +12,7 @@ Além do timer, o app apresenta um fundo animado com ondas, feito em CSS, para u
 * ⏳ Temporizador regressivo (25 minutos por padrão)
 * ▶️ Iniciar, ⏸️ Pausar e 🔄 Resetar o timer
 * 🌊 Fundo animado de ondas com CSS (componente `WaterWaveBack`)
-* ⚛️ Hooks React (`useState`, `useEffect`)
+* ⚛️ Hooks React (`useState`, `useEffect`, 'useSet')
 * 🎨 Estilo limpo, responsivo e moderno
 
 ---
